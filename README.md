@@ -1,2 +1,3 @@
 # workmodeon
-this is trial repo
+this is good repo to learn things
+
